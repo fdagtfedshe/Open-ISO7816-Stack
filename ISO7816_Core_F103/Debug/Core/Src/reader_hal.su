@@ -1,0 +1,7 @@
+../Core/Src/reader_hal.c:19:22:READER_HAL_InitHardware	8	static
+../Core/Src/reader_hal.c:32:15:READER_HAL_SetFreq	16	static
+../Core/Src/reader_hal.c:40:15:READER_HAL_SetFi	16	static
+../Core/Src/reader_hal.c:48:15:READER_HAL_SetDi	16	static
+../Core/Src/reader_hal.c:56:15:READER_HAL_SetGT	16	static
+../Core/Src/reader_hal.c:64:15:READER_HAL_InitWithDefaults	24	static
+../Core/Src/reader_hal.c:80:6:HAL_TIM_PeriodElapsedCallback	16	static

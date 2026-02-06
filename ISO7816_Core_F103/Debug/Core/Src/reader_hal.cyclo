@@ -1,0 +1,7 @@
+../Core/Src/reader_hal.c:19:22:READER_HAL_InitHardware	1
+../Core/Src/reader_hal.c:32:15:READER_HAL_SetFreq	3
+../Core/Src/reader_hal.c:40:15:READER_HAL_SetFi	2
+../Core/Src/reader_hal.c:48:15:READER_HAL_SetDi	2
+../Core/Src/reader_hal.c:56:15:READER_HAL_SetGT	2
+../Core/Src/reader_hal.c:64:15:READER_HAL_InitWithDefaults	3
+../Core/Src/reader_hal.c:80:6:HAL_TIM_PeriodElapsedCallback	3
